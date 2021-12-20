@@ -10,7 +10,7 @@ My final report will include each of the following:
 
 ### Player Count
   * Total Number of Players<br>
-    ![Total Players](Images/player_count.png)
+  ![Total Players](Images/player_count.png)
 
 ### Purchasing Analysis (Total)
   * Number of Unique Items
@@ -60,7 +60,7 @@ My final report will include each of the following:
   * Total Purchase Value
   ![Most Profitable Items](Images/most_profitable_items.png)
 
-- - -
+  - - -
 
 ### Written Report
   * The average price of total purchases is $3.05.
@@ -70,12 +70,14 @@ My final report will include each of the following:
   * Players between the ages of 35-39 spend more on average than other age groups at $3.60.
   * “Final Critic” was purchased the most at 13 times.
 
-- - - 
+  - - - 
 
-### References
+## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
-- - -
+  - - -
 
-© Connelito
+Contact Information:
+* [LinkedIn](https://www.linkedin.com/in/connelito)
+* Darryl.Connelly.II@gmail.com
