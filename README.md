@@ -62,6 +62,16 @@ My final report will include each of the following:
 
 - - -
 
+## Written Report
+  * The average price of total purchases is $3.05.
+  * The majority of the players who are purchasing items are male at approximately 84%.
+  * Male average purchase price is below the average price at $3.02.
+  * Most percentage of players are between the ages of 20-24 at approximately 45%.
+  * Players between the ages of 35-39 spend more on average than other age groups at $3.60.
+  * “Final Critic” was purchased the most at 13 times.
+
+- - - 
+
 ## References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
