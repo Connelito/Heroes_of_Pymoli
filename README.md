@@ -9,7 +9,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 My final report will include each of the following:
 
 ### Player Count
-  * Total Number of Players
+  * Total Number of Players<br>
     ![Total Players](Images/player_count.png)<br>
 
 ### Purchasing Analysis (Total)
