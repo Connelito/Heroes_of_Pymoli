@@ -17,29 +17,34 @@ My final report will include each of the following:
   * Average Purchase Price
   * Total Number of Purchases
   * Total Revenue<br>
+  ![Purchase Analysis](Images/total_purchasing_analysis.png)
 
 ### Gender Demographics
   * Percentage and Count of Male Players
   * Percentage and Count of Female Players
   * Percentage and Count of Other / Non-Disclosed<br>
+  ![Gender Demographics](Images/gender_demographics.png)
 
 ### Purchasing Analysis by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender<br>
+  ![Gender Purchasing Analysis](Images/gender_purchasing_analysis.png)
 
 ### Age Demographics (4 year bins)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group<br>
+  ![Age Demographics](Images/age_demographics.png)
 
 ### Top 5 Spenders by Total Purchase Value
   * SN
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value<br>
+  ![Top Spenders](Images/top_spenders.png)
 
 ### 5 Most Popular Items by Purchase Count
   * Item ID
@@ -47,6 +52,7 @@ My final report will include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value<br>
+  ![Most Popular Items](Images/most_popular_items.png)
 
 ### 5 Most Profitable Items by Total Purchase Value
   * Item ID
@@ -54,6 +60,7 @@ My final report will include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  ![Most Profitable Items](Images/most_profitable_items.png)
 
 - - -
 
