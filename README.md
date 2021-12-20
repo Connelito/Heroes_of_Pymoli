@@ -10,6 +10,7 @@ My final report will include each of the following:
 
 ### Player Count
   * Total Number of Players
+    ![Total Players](Images/player_count.png)<br>
 
 ### Purchasing Analysis (Total)
   * Number of Unique Items
