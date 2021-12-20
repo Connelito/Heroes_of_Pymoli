@@ -10,43 +10,43 @@ My final report will include each of the following:
 
 ### Player Count
   * Total Number of Players<br>
-    ![Total Players](Images/player_count.png)<br>
+    ![Total Players](Images/player_count.png)
 
 ### Purchasing Analysis (Total)
   * Number of Unique Items
   * Average Purchase Price
   * Total Number of Purchases
-  * Total Revenue
+  * Total Revenue<br>
 
 ### Gender Demographics
   * Percentage and Count of Male Players
   * Percentage and Count of Female Players
-  * Percentage and Count of Other / Non-Disclosed
+  * Percentage and Count of Other / Non-Disclosed<br>
 
 ### Purchasing Analysis by gender
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
-  * Average Purchase Total per Person by Gender
+  * Average Purchase Total per Person by Gender<br>
 
 ### Age Demographics (4 year bins)
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
-  * Average Purchase Total per Person by Age Group
+  * Average Purchase Total per Person by Age Group<br>
 
 ### Top 5 Spenders by Total Purchase Value
   * SN
   * Purchase Count
   * Average Purchase Price
-  * Total Purchase Value
+  * Total Purchase Value<br>
 
 ### 5 Most Popular Items by Purchase Count
   * Item ID
   * Item Name
   * Purchase Count
   * Item Price
-  * Total Purchase Value
+  * Total Purchase Value<br>
 
 ### 5 Most Profitable Items by Total Purchase Value
   * Item ID
