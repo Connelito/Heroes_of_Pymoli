@@ -34,8 +34,6 @@ My final report will include each of the following:
 
 ### Age Demographics (4 year bins)
   * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
   * Average Purchase Total per Person by Age Group<br>
   ![Age Demographics](Images/age_demographics.png)
 
