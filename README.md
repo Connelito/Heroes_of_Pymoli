@@ -62,7 +62,7 @@ My final report will include each of the following:
 
 - - -
 
-## Written Report
+### Written Report
   * The average price of total purchases is $3.05.
   * The majority of the players who are purchasing items are male at approximately 84%.
   * Male average purchase price is below the average price at $3.02.
@@ -72,7 +72,7 @@ My final report will include each of the following:
 
 - - - 
 
-## References
+### References
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
