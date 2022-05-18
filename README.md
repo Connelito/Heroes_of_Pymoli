@@ -2,7 +2,7 @@
 
   ![Fantasy](Images/Fantasy.png)
 
-After a lot of hard work in the data wrangling mines, I've landed a job as Lead Analyst for an independent gaming company. I've been assigned the task of analyzing the data for their most recent fantasy game, Heroes of Pymoli.
+After a lot of hard work in the data wrangling mines, I've landed a job as Lead Analyst for an independent gaming company. I've been assigned the task of analyzing the [data](Resources/purchase_data.csv) for their most recent fantasy game, Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, I will generate a report that breaks down the game's purchasing data into meaningful insights.
 
